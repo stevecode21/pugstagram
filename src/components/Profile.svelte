@@ -1,0 +1,14 @@
+<div class="Profile">
+  <div class="Profile-content">
+    <div class="Profile-avatar">
+      <img
+        src="https://avatars.githubusercontent.com/u/59179297?s=400&u=fed85ccc45d0a5a03d28db92809ab9f7f4f707cb&v=4"
+        alt=""
+      />
+    </div>
+    <div class="Profile-info">
+      <h2>stevecode</h2>
+      <span>Steve Suárez</span>
+    </div>
+  </div>
+</div>
