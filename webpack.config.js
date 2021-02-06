@@ -12,7 +12,7 @@ module.exports = {
         // Use path to locate the path on dist (distribution)
         path: path.resolve(__dirname, 'dist'),
         // Compilation's name
-        fileName: 'bundle.js'
+        filename: 'bundle.js'
     },
     // Extensions resolve
     resolve: {
