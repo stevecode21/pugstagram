@@ -5,7 +5,6 @@
 
   // Get the props frm parent componente (in this case App.svelte that get the dara from an API)
   export let nickname, name;
-  console.log("Name", name);
 </script>
 
 <div class="Sidebar">
