@@ -1,10 +1,17 @@
 <script>
   import Card from "./Card.svelte";
+
+  // This prop is an array
+  export let posts = [];
 </script>
 
 <div class="Timeline">
   <div class="Timeline-container">
-    <Card />
+    {#each posts as post}
+      <Card {...post} />
+    {:else}
+      <p>Loading...</p>
+    {/each}
   </div>
 </div>
 
