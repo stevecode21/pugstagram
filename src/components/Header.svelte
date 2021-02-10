@@ -1,3 +1,10 @@
+<script>
+  // Import my store like count
+  import { likeCount } from "../store/store";
+
+  // We're gonna use the reactivity
+</script>
+
 <div class="Header">
   <div class="Header-container">
     <div class="Header-content">
@@ -8,6 +15,8 @@
         <ul>
           <li>
             <i class="fas fa-heart" />
+            <!-- We're gonna use the reactivity -->
+            {$likeCount === 0 ? "" : $likeCount}
           </li>
           <li>
             <i class="fas fa-user-alt" />
