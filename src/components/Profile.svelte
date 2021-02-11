@@ -1,5 +1,5 @@
 <script>
-  export let nickname, name;
+  // export let nickname, name;
 </script>
 
 <div class="Profile">
@@ -14,7 +14,7 @@
       <h2>stevecode</h2>
       <!-- <h2>{nickname}</h2> -->
       <span>Steve Suárez</span>
-      <!-- <span>{name}</span> -->
+
     </div>
   </div>
 </div>
