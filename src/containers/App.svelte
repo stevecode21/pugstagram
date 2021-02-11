@@ -5,7 +5,6 @@
   import Timeline from "../components/Timeline.svelte";
   import Sidebar from "../components/Sidebar.svelte";
 
-  // Logic to call an API
   let data = {};
   const API = "https://us-central1-pugstagram-co.cloudfunctions.net/data";
 
@@ -23,6 +22,7 @@
   <Sidebar {...data.user} />
 </Main>
 
+<!-- Import my components -->
 <style>
   @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap");
   @import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
