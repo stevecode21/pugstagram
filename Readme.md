@@ -11,3 +11,5 @@
 ![Screenshot App](./.readme-static/PugstagramPreview.png)
 
 If you want to interact with the app just [see the app on production](https://pugstagram-stevecode.netlify.app/)
+
+[![forthebadge](https://forthebadge.com/images/badges/certified-steve-bruhle.svg)](https://forthebadge.com)
