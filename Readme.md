@@ -2,6 +2,10 @@
 
 ## How to use
 
+1. Clone the repo
+2. Use ```npm install``` to install all packages
+3. Run Webpack Dev Server with ```npm run start```
+
 ## Preview
 
 ![Screenshot App](./.readme-static/PugstagramPreview.png)
